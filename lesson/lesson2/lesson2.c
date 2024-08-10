@@ -268,7 +268,7 @@ int main(void)
                 status = 0;
                 break;
             default:
-                printf("잘못된 선택입니다. 다시 시도하세요.\n");
+                printf("Try Again...\n");
                 break;
         }
     }
